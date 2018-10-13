@@ -19,7 +19,7 @@ Pausable
 
 Mintable
 
-Deployed with Metamask :)
+Deploy with Metamask :)
 
 ###### Created by DigitalNomad1001
 
